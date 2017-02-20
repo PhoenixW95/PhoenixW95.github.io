@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "十六字令"
-subtitle:   "癸巳年 七月十一 作于汉口。"
+subtitle:   "癸巳年 七月十一 作于汉口"
 date:       2013-08-17
 author:     "Phoenix"
 header-img: "img/shiliuziling.jpg"

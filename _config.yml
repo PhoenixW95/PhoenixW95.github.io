@@ -68,7 +68,7 @@ ga_domain: phoenixwu.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "当风轻借力，一举入高空."
+sidebar-about-description: "当风轻借力，一举入高空"
 sidebar-avatar: "/img/avatar-phoenix.JPG"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

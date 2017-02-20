@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "广寒秋"
-subtitle:   "甲午年 二月廿四 作于樱花路。"
+subtitle:   "甲午年 二月廿四 作于樱花路"
 date:       2014-03-24
 author:     "Phoenix"
 header-img: "img/guanghanqiu.jpg"

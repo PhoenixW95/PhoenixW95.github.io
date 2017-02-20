@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "小重山"
-subtitle:   "甲午年 五月廿九 作于湖滨自习室。"
+subtitle:   "甲午年 五月廿九 作于湖滨自习室"
 date:       2014-06-26
 author:     "Phoenix"
 header-img: "img/xiaochongshan.jpg"

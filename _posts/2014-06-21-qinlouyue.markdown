@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "秦楼月"
-subtitle:   "甲午年 五月廿四 作于樱花路。"
+subtitle:   "甲午年 五月廿四 作于樱花路"
 date:       2014-06-21
 author:     "Phoenix"
 header-img: "img/qinlouyue.jpg"

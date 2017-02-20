@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "声声慢·六月兴怀"
-subtitle:   "癸巳年 四月廿七 作于红墙。"
+subtitle:   "癸巳年 四月廿七 作于红墙"
 date:       2013-06-05
 author:     "Phoenix"
 header-img: "img/hongqiang.jpg"

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "浪淘沙"
-subtitle:   "丁酉年 正月二十 作于湖滨。"
+subtitle:   "丁酉年 正月二十 作于湖滨"
 date:       2017-02-16
 author:     "Phoenix"
 header-img: "img/post-bg-unix-linux.jpg"

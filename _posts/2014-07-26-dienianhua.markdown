@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "蝶念花"
-subtitle:   "甲午年 六月三十 作于湖滨。"
+subtitle:   "甲午年 六月三十 作于湖滨"
 date:       2014-07-26
 author:     "Phoenix"
 header-img: "img/dienianhua.jpg"
