@@ -64,7 +64,7 @@ sudo gem install jekyll
 <br><br>
 ruby的安装需要注意一点，就是将ruby的可执行文件加入到环境变量的PATH中，如下图，将其勾上，然后安装即可。
 
-<img class="shadow" width="550" src="/img/in-post/share start blog/111.png" />
+<img class="shadow" width="550" src="/img/in-post/share start blog/111.PNG" />
 
 接下来我们安装 Ruby DevKit。双击我们刚才下载的 DevKit-mingw64-64-4.7.2-20130224-1432-sfx ，将其解压到某个文件夹下，这里我选择的是 C:\RubyDevKit，解压完毕后，以此输入如下命令：
 ```
@@ -85,7 +85,7 @@ gem sources -a https://ruby.taobao.org/
 //更新缓存
 gem sources -u
 ```
-<img class="shadow" width="650" src="/img/in-post/share start blog/112.png" />
+<img class="shadow" width="650" src="/img/in-post/share start blog/112.PNG" />
 
 ### 3.Install the Jekyll
 到此终于可以安装 Jekyll 了，只需要一条命令即可。
@@ -109,7 +109,7 @@ jekyll serve
 ```
 然后打开浏览器，输入 http://127.0.0.1:4000/，就可以看到你的原生态博客了。
 
-<img class="shadow" width="650" src="/img/in-post/share start blog/113.png" />
+<img class="shadow" width="650" src="/img/in-post/share start blog/113.PNG" />
 
 ### 5.用GitHub展示你的博客
 
@@ -188,7 +188,7 @@ git push origin master
 如何编写自己的 Blog ？在此推荐一个软件[Brackets](http://brackets.io/)，用着十分方便。
 <br><br>
 
-<img class="shadow" width="1000" src="/img/in-post/share start blog/114.png" />
+<img class="shadow" width="1000" src="/img/in-post/share start blog/114.PNG" />
 
 好了，快去开启你 Blog 的新世界吧！
 
