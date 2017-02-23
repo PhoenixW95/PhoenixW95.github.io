@@ -72,6 +72,8 @@ cd C:\RubyDevKit
 ruby dk.rb init
 ruby dk.rb install
 ```
+在此普及下呼出运行的快捷键：win + R
+
 最后我们可以用gem -v 和 ruby -v 来确认一下ruby和gem是否已经安装成功.
 
 ### 2.Change the Gem's sources
@@ -90,9 +92,9 @@ gem sources -u
 ### 3.Install the Jekyll
 到此终于可以安装 Jekyll 了，只需要一条命令即可。
 ```
-gem istall jekyll
+gem install jekyll
 ```
-至此，jekyll 的安装完毕。
+jekyll 的安装完毕。
 
 ### 4.Build your firstblog
 我们赶紧来测试一下，你期待已久的博客马上就要诞生了。
