@@ -202,7 +202,8 @@ git push origin master
 
 本文作者 吴文昊， 首次发布于[Phoenix Blog](phoenixwu.cn)，若有转载引用请保留以上链接。
 
-
+<!-- 访问统计功能 -->
+<div align="center"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3212867&c=9638914" alt="AmazingCounters.com"></div>
 
 
 
