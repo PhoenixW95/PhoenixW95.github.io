@@ -4,7 +4,7 @@ title:      "临江仙"
 subtitle:   "丁酉年 二月初四 作于青楼外"
 date:       2017-03-01
 author:     "Phoenix"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/linjiangxian.jpg"
 tags:
     - 我的词集
 
