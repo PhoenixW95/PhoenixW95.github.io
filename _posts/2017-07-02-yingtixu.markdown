@@ -4,7 +4,7 @@ title:      "莺啼序"
 subtitle:   "丁酉年 六月初九 作于余舍"
 date:       2017-07-02
 author:     "Phoenix"
-header-img: "img/yingtixu.jpg"
+header-img: "img/yingtixu.JPG"
 tags:
     - 月凤词
 
